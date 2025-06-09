@@ -1,4 +1,4 @@
-use_readme_md()
+#use_readme_md()
 use_r("print_hello_world")
 use_r("print_hello_rmedicine")
 

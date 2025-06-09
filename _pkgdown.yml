@@ -1,4 +1,5 @@
-url: https://inkaa8.github.io/Rmedicine2025/
+url: https://melissavanbussel.github.io/rmedicine/
 template:
   bootstrap: 5
-
+  bslib:
+    bootswatch: zephyr
